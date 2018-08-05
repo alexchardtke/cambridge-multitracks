@@ -1,0 +1,49 @@
+.accordion-container {
+
+}
+
+.accordion-btn {
+  display: inline-block;
+  text-align: left;
+  width: 100%;
+  height: 100%;
+}
+
+.accordion-header {
+  display: inline-block;
+}
+
+.accordion-icon {
+  display: inline-block;
+  font-size: 30px;
+}
+
+.card-body-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.card-wrapper {
+  padding: 20px;
+  margin-bottom: 10px;
+}
+
+.song-edited-wrapper {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.song-edited-wrapper p {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.song-full-wrapper {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.song-full-wrapper p {
+  display: inline-block;
+  margin-right: 10px;
+}
